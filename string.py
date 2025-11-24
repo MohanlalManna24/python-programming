@@ -1,0 +1,12 @@
+text = "mohanlal manna"
+print(len(text))
+print(text.capitalize())
+print(text.title())
+print(text.islower())
+print(text.lower())
+print(text.isupper())
+print(text.upper())
+print(text.count("a"))
+print(text.find("a"))
+print(text.index("a"))
+print(text.replace("mohanlal manna", "I Love Programming"))
